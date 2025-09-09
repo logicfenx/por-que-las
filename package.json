@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/por-que-las",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a por-que-las",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/por-que-las.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/persianas-madera-tendencia-decorativa/"
+    },
+    "homepage": "https://isproto.com/persianas-madera-tendencia-decorativa/"
+}
